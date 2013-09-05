@@ -1,0 +1,1 @@
+# Solution for Challenge: Pt 1. Sinatra+ActiveRecord: Users, Skills, and Proficiencies. Started 2013-09-05T13:15:18+00:00
